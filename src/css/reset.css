@@ -1,0 +1,11 @@
+/* Arquivo reset css é usado para resetar os estilos do html */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none; /* Remover as bolinhas pretas da lista */
+    
+}
